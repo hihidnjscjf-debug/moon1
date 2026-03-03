@@ -24,6 +24,6 @@
 <img src='7.png'/>
 
 ## 링크
-데이터는 [구글 드라이브](https://colab.research.google.com/drive/1dBbIel-FAa2KYJLK2Sg0ICs3gTg8yow-#scrollTo=-tgw_vKrlsm6)에서 다운 받으시면 됩니다.
+데이터는 [구글 드라이브](google.co.kr)에서 다운 받으시면 됩니다.
 
 
